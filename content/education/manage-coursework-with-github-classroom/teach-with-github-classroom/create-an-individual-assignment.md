@@ -99,6 +99,9 @@ Optionally, you can automatically grade assignments and create a space for discu
 
 {% data reusables.classroom.assignments-guide-click-create-assignment-button %}
 
+
+If you want to learn more details about how to leave feedback in a pull request, read "[Leave Feedback With Pull Requests](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)."
+
 ### Inviting students to an assignment
 
 {% data reusables.classroom.assignments-guide-invite-students-to-assignment %}
